@@ -1,0 +1,23 @@
+{
+  "name": "twitter-analyst",
+  "version": "1.0.0",
+  "description": "Twitter search and display using node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billywaite/Twitter-Search-And-Display.git"
+  },
+  "author": "Billy Waite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billywaite/Twitter-Search-And-Display/issues"
+  },
+  "homepage": "https://github.com/billywaite/Twitter-Search-And-Display#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0"
+  }
+}
