@@ -1,5 +1,7 @@
+require('dotenv').config();
+
 var app = require('./app/server');
 
-app.listen(8080, function() {
-	console.log('Server listening on port 8080');
+app.listen(8080, function(){
+    console.log('server is running on localhost:8080');
 })
